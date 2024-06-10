@@ -13,4 +13,4 @@ We organize a TDA Seminar in Universidad Autónoma de Madrid.
 * [“Estimación de dimensionalidad mediante topología de datos”](files/Seminario_UAM_8nov2023.pdf) by [Carles Casacuberta](https://www.ub.edu/topologia/casacuberta/), November 8th 2023.
 * [“Geometría de espacios de diagramas de persistencia”](files/Geometria_de_espacios_de_diagramas_de_persistencia.pdf) by [Mauricio Ché-Moguel](https://sites.google.com/view/mauriciochemoguel/), February 12th 2024.
 * ["Emparejamiento de ciclos y estabilidad de funciones de rango: dos hisotrias sobre homología persistente"](files/presentation_ines_garcia_uam.pdf) by [Inés García-Redondo](https://sites.google.com/view/ines-garcia-redondo/home), March 21st 2024.
-* ["Topological Data Analysis for Deep Learning"](files/main (1).pdf) by [Rubén Ballester](http://rubenbb.com/), June 4th 2024. [https://www.youtube.com/watch?v=wEWgs3y_8os&ab_channel=Matem%C3%A1ticasUAM](VIDEO)
+* ["Topological Data Analysis for Deep Learning"](files/main (1).pdf) by [Rubén Ballester](http://rubenbb.com/), June 4th 2024. [VIDEO](https://www.youtube.com/watch?v=wEWgs3y_8os&ab_channel=Matem%C3%A1ticasUAM)
