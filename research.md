@@ -4,7 +4,7 @@ title: Research
 ---
 
 ## Publications
-* [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [Luis Guijarro](https://matematicas.uam.es/~luis.guijarro/), 2022). Indiana University Mathematics Journal. *Forthcoming*.
+* [Upper and lower bounds on the Filling Radus](https://arxiv.org/pdf/2206.08032.pdf) (with [Luis Guijarro](https://matematicas.uam.es/~luis.guijarro/), 2022). Indiana University Mathematics Journal, 73 No. 4 (2024), 1253-1267, DOI: [https://doi.org/10.1512/iumj.2024.73.9909](https://doi.org/10.1512/iumj.2024.73.9909).
 * [The Rival Coffee Shop Problem](https://www.esaim-cocv.org/articles/cocv/abs/2024/01/cocv230213/cocv230213.html) (with [Javier Casado](https://javiercasadoa.github.io/personalpage/), 2024). ESAIM: Control, Optimisation and Calculus of Variations, 30 (2024) 42, DOI: [https://doi.org/10.1051/cocv/2024031](https://doi.org/10.1051/cocv/2024031).
 * [On the reach of isometric embeddings into Wasserstein type spaces](https://arxiv.org/abs/2307.01051) (with [Javier Casado](https://javiercasadoa.github.io/personalpage/) and [Jaime Santos-Rodríguez](http://jaime-santos.github.io/math/), 2024). The Journal of Geometric Analysis. *Forthcoming*
  
