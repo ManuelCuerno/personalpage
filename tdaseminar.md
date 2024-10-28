@@ -6,7 +6,7 @@ title: TDA Seminar
 We organize a TDA Seminar in Universidad Autónoma de Madrid.
 
 ## Next events
-*Clara López (UCM) *8th November at CUNEF University*
+* Clara López (UCM) *8th November at CUNEF University*
 
 ## Past events
 * [“A walk through a TDA pipeline. Case study of cells organization”](files/mj_jimenezUAM.pdf) by [María José Jiménez](https://personal.us.es/majiro/), October 5th 2023.
