@@ -14,7 +14,7 @@ title: Talks and conferences
 
 ## National talks and seminars
 * [Decoding patterns of meaning: reassessing construal clusters and TDA perspectives](https://arxiv.org/abs/2404.17042) given at [Jornadas de Topología de Datos 2025](https://www.unirioja.es/cu/jodivaso/events/tda2025/) in Logroño, La Rioja, Spain, from 30th - 31st January 2025.
-* []
+* [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at CUNEF University on 12th June 2024.
 * [Topological Data Analysis (TDA) and air traffic](https://www.icmat.es/es/actividades/coloquios/coloquio-landing/?ID=2004) given at Junior Coloquium of Mathematics (ICMAT-UAM-UC3M-UCM), which took place at ICAM on the 15th February 2023.
 * [Upper and lower bounds on the filling radius](https://arxiv.org/abs/2206.08032) given at VI Congreso de jóvenes de la RSME 2022, which took place at Universidad de León on the 6th-10th February 2023.
 * [Convergencia de variedades con curvatura totalmente acotada](https://www.ugr.es/~reag/taller2021/) given at Taller de Jóvenes Investigadores de la REAG 2021, which took place at Instituto de Matemáticas de la Universidad de Granada (IMAG) on the 18th-19th November 2021.
