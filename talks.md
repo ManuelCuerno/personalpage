@@ -20,15 +20,10 @@ title: Talks and conferences
 
 
 ## International poster presentations
+*[How do we think? - Reassessing construal clusters with bipolar data]
 * [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, during 31st July - 4th August 2023.
 
 
-## Most relevant conference (attendance)
-* [Thematic Trimester: Geometry and Statistics in Data Science](https://indico.math.cnrs.fr/event/6590/) which took place at IHP of Paris on the 5th September to 9th December, 2022.
-* [VSU CBMS Conference on Topological Data Analysis and Persistence Theory](https://blog.valdosta.edu/vsu-cbms-conference/) which took place at Valdosta State University in Valdosta, EEUU, on the 8th-12th August, 2022.
-* [Bridging applied and quantitative topology](https://sites.google.com/view/applied-quantitative-topology/?pli=1) which took place online, hosted by Applied Algebraic Topology Research Network Vietoris-Rips (AATRN VR) on the 9th-13th May, 2022.
-* [Workshop on manifolds with symmetry](https://www.igt.uni-stuttgart.de/workshop-2022/) which took place on the University of Stuttgart, Germany, on 28th-20th March, 2022.
-* [Symmetry and Shape](http://xtsunxet.usc.es/symmetry2022/) which took place at Universidad de Santiago de Compostela during the editions of 2019 and 2021.
-* [Workshop on curvature and global shape](https://www.uni-muenster.de/Diffgeo/cgs_2023/index.html) which took place at WWU Münster, Germany, on the 2019 and 2021 editions.
-* [International School on Extrinsic Curvature Flows](https://indico.ictp.it/event/8314/) which took place at ICTP, Trieste, Italy, on 4th-15th June, 2018.
-
+## Organization
+*[Topological Data Analysis: Theory and Applications](https://jovenes2025.rsme.es/paralelaCD02.html) parrallel session at [VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es) in Bilbao, Spain, from 13th-17th January 2025.
+*[Ánálisis topológico de datos: Teoría y Aplicaciones]([https://rsme-smm-vi.webs.upv.es/programa/](https://rsme-smm-vi.webs.upv.es/sesiones-especiales/Resumenes_Sesion_Especial_S17.pdf)) parrallel session at [VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es) in Valencia, Spain, from 1st-5th July 2024.
