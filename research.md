@@ -23,8 +23,3 @@ title: Research
 * [On isometric embeddings of metric spaces](files/Mellado Cuerno_Manuel_TesisDoctoral.pdf) defended on February 9th 2024 in Universidad Autónoma de Madrid.
 
 
-## Work in progress
-* Sociological understanding of temporal series (TDA).
-* Electoral processes (TDA).
-* Vietoris-Rips and submersions (Metric Geometry and TDA).
-* Urysohn width and collapse (Metric Geometry).
