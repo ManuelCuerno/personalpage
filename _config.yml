@@ -9,6 +9,8 @@ logo: files/pics/PhotoManuel.png
 navigation:
   - name: RESEARCH
     url: research
+  - name: PROJECTS
+    url: projects
   - name: TALKS & CONFERENCES
     url: talks
   - name: TEACHING
