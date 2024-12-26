@@ -19,11 +19,11 @@ title: Talks and conferences
 * [Convergencia de variedades con curvatura totalmente acotada]() given at Workshop of Young Researchers in Mathematics (2020-2021 academic year), which took place at School of Mathematics, Universidad Complutense de Madrid (UCM) on the 21st-23th September 2020.
 
 
-## International poster presentations
-*[How do we think? - Reassessing construal clusters with bipolar data]
-* [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, during 31st July - 4th August 2023.
+## Poster presentations
+* [How do we think? - Reassessing construal clusters with bipolar data](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster%20Atlanta.pdf) given at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences-events/siam-conferences/mds24/) in Atlanta, USA, from 21st - 25th October, 2024.
+* [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, from 31st July - 4th August 2023.
 
 
 ## Organization
-*[Topological Data Analysis: Theory and Applications](https://jovenes2025.rsme.es/paralelaCD02.html) parrallel session at [VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es) in Bilbao, Spain, from 13th-17th January 2025.
-*[Ánálisis topológico de datos: Teoría y Aplicaciones]([https://rsme-smm-vi.webs.upv.es/programa/](https://rsme-smm-vi.webs.upv.es/sesiones-especiales/Resumenes_Sesion_Especial_S17.pdf)) parrallel session at [VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es) in Valencia, Spain, from 1st-5th July 2024.
+* [Topological Data Analysis: Theory and Applications](https://jovenes2025.rsme.es/paralelaCD02.html) parrallel session at [VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es) in Bilbao, Spain, from 13th - 17th January 2025.
+* [Ánálisis topológico de datos: Teoría y Aplicaciones]([https://rsme-smm-vi.webs.upv.es/programa/](https://rsme-smm-vi.webs.upv.es/sesiones-especiales/Resumenes_Sesion_Especial_S17.pdf)) parrallel session at [VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es) in Valencia, Spain, from 1st - 5th July 2024.
