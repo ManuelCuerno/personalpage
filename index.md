@@ -12,6 +12,8 @@ During my PhD, my research initially focused on the collapse of sequences of Rie
 
 Throughout this period, I also delved into Topological Data Analysis (TDA), engaging in both theoretical and applied research in this field. TDA has now become a cornerstone of my research endeavors.
 
+Currently, my work focuses on both applied and theoretical mathematics. I continue to contribute to the field of metric geometry while dedicating part of my research to TDA and the application of mathematics to Air Traffic Management and Sociology. Additionally, I am the Principal Investigator of a two-year BBVA Foundation Prismas y Problemas project ("Charting Political Ideological Landscapes in Europe: Fault Lines and Opportunities (POL-AXES)").
+
 **Research interests:**  TDA (Topological Data Analysis). Metric Geometry. Optimal Transport. Wasserstein type spaces. Mathematics applied to Sociology. Mathematics applied to Air Traffic Management Networks. Centrality Measures.
 
 ## Contact details:
