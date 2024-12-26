@@ -26,4 +26,4 @@ title: Talks and conferences
 
 ## Organization
 * [Topological Data Analysis: Theory and Applications](https://jovenes2025.rsme.es/paralelaCD02.html) parrallel session at [VII Congreso de Jóvenes Investigadores de la RSME](https://jovenes2025.rsme.es) in Bilbao, Spain, from 13th - 17th January 2025.
-* [Ánálisis topológico de datos: Teoría y Aplicaciones]([https://rsme-smm-vi.webs.upv.es/programa/](https://rsme-smm-vi.webs.upv.es/sesiones-especiales/Resumenes_Sesion_Especial_S17.pdf)) parrallel session at [VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es) in Valencia, Spain, from 1st - 5th July 2024.
+* [Ánálisis topológico de datos: Teoría y Aplicaciones](https://rsme-smm-vi.webs.upv.es/sesiones-especiales/Resumenes_Sesion_Especial_S17.pdf) parrallel session at [VI Encuentro Conjunto RSME-SMM](https://rsme-smm-vi.webs.upv.es) in Valencia, Spain, from 1st - 5th July 2024.
