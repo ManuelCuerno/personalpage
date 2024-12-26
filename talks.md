@@ -13,6 +13,8 @@ title: Talks and conferences
    
 
 ## National talks and seminars
+* [Decoding patterns of meaning: reassessing construal clusters and TDA perspectives](https://arxiv.org/abs/2404.17042) given at [Jornadas de Topología de Datos 2025](https://www.unirioja.es/cu/jodivaso/events/tda2025/) in Logroño, La Rioja, Spain, from 30th - 31st January 2025.
+* []
 * [Topological Data Analysis (TDA) and air traffic](https://www.icmat.es/es/actividades/coloquios/coloquio-landing/?ID=2004) given at Junior Coloquium of Mathematics (ICMAT-UAM-UC3M-UCM), which took place at ICAM on the 15th February 2023.
 * [Upper and lower bounds on the filling radius](https://arxiv.org/abs/2206.08032) given at VI Congreso de jóvenes de la RSME 2022, which took place at Universidad de León on the 6th-10th February 2023.
 * [Convergencia de variedades con curvatura totalmente acotada](https://www.ugr.es/~reag/taller2021/) given at Taller de Jóvenes Investigadores de la REAG 2021, which took place at Instituto de Matemáticas de la Universidad de Granada (IMAG) on the 18th-19th November 2021.
@@ -22,8 +24,8 @@ title: Talks and conferences
 ## Poster presentations
 * [How do we think? - Reassessing construal clusters with bipolar data](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster%20Atlanta.pdf) presented at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences-events/siam-conferences/mds24/) in Atlanta, USA, from 21st - 25th October, 2024.
 * [Reassessing construal clusters with bipolar data: measuring similarities and TDA perspectives](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster_Oxford_2024.pdf) presented at [Spires 2024](https://www.maths.ox.ac.uk/groups/ml-and-ds/topological-data-analysis/spires-2024) in Oxford, UK, from 7th - 9th August 2024.
-* [Topological data Analysis in ATM: the shape of big flgiht data sets]() presented at [Jornadas de Topología de Datos](https://sites.google.com/view/tda2024) in Barcelona, Spain, from 1st - 2nd February 2024.
-* [Topological Data Analysis in ATM: the shape of big flgiht data sets](https://arxiv.org/abs/2304.08906) presented at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, from 31st July - 4th August 2023.
+* [Topological data Analysis in ATM: the shape of big flgiht data sets](https://github.com/ManuelCuerno/personalpage/blob/main/files/Kyoto_2023___Poster%20(2).pdf) presented at [Jornadas de Topología de Datos 2024](https://sites.google.com/view/tda2024) in Barcelona, Spain, from 1st - 2nd February 2024.
+* [Topological Data Analysis in ATM: the shape of big flgiht data sets](https://github.com/ManuelCuerno/personalpage/blob/main/files/Kyoto_2023___Poster%20(2).pdf) presented at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, from 31st July - 4th August 2023.
 
 
 ## Organization
