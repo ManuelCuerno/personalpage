@@ -20,8 +20,9 @@ title: Talks and conferences
 
 
 ## Poster presentations
-* [How do we think? - Reassessing construal clusters with bipolar data](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster%20Atlanta.pdf) given at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences-events/siam-conferences/mds24/) in Atlanta, USA, from 21st - 25th October, 2024.
-* [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) given at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, from 31st July - 4th August 2023.
+* [How do we think? - Reassessing construal clusters with bipolar data](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster%20Atlanta.pdf) presented at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences-events/siam-conferences/mds24/) in Atlanta, USA, from 21st - 25th October, 2024.
+* [Reassessing construal clusters with bipolar data: measuring similarities and TDA perspectives]() presented at [Spires 2024](https://www.maths.ox.ac.uk/groups/ml-and-ds/topological-data-analysis/spires-2024) in Oxford, UK, from 7th - 9th August 2024.
+* [Topological Data Analysis (TDA) on ATM](https://arxiv.org/abs/2304.08906) presented at [TDA week 2023](https://sites.google.com/view/tdaweek2023/home?authuser=0) in Kyoto, Japan, from 31st July - 4th August 2023.
 
 
 ## Organization
