@@ -5,7 +5,7 @@ title: Talks and conferences
 
 ## International talks and seminars 
 * [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at Imperial College, London, UK on the 6th August 2024.
-* [Filling radius and reach of isometrically embedded metric spaces]() given at UNAM, CDMX, México on the 19th January 2024.
+* [Filling radius and reach of isometrically embedded metric spaces](https://github.com/ManuelCuerno/personalpage/blob/main/files/Diapositivas%20UNAM%20-%20Manuel%20Cuerno.pdf) given at UNAM, CDMX, México on the 19th January 2024.
 * [Topological Data Analysis in ATM](https://arxiv.org/abs/2304.08906) given at [GEOTOP-A International Conference](https://seminargeotop-a.com/merida24) in Mérida, Yucatán, México, from 8th - 14th Juanuary 2024.
 * [Filling radius and the reach of isometrically embedded metric spaces](https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/i-n-i-c-i-o) given at [Modern Techniques in Riemannian Geometry 2023](https://sites.google.com/ciencias.unam.mx/moderntechniquesriemanniangeom/h-o-m-e?authuser=0) in Ciudad de México during 24th-27th July, 2023.
 * [Topological Data Analysis (TDA) on Air Traffic Management](https://arxiv.org/abs/2304.08906) given at [GTDAML 2023](https://gtdaml.wixsite.com/2023) in Boston during 8th-11th June, 2023.
