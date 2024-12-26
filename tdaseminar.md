@@ -3,7 +3,9 @@ layout: default
 title: TDA Seminar
 ---
 
-We organize a TDA Seminar in CUNEF University.
+We organize a TDA Seminar in CUNEF University. 
+
+Discord Server for Spanish-Speaking TDA Worldwide Community: [LINK](https://discord.gg/4TpkYUTS7f)
 
 ## Next events
 
