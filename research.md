@@ -12,7 +12,7 @@ title: Research
 ## Pre-prints
 * [Topological Data Analysis in ATM: the shape of big flight data sets](https://arxiv.org/abs/2304.08906) (with [Luis Guijarro](https://matematicas.uam.es/~luis.guijarro/), [Rosa María Arnaldo Valdés](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=7789) and [Fernando Gómez Comendador](https://www.upm.es/observatorio/vi/index.jsp?pageac=investigador.jsp&idInvestigador=5340), 2023). *Preprint*
 * The evolution of political ideology axes  in the United States, 1984-2020 (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io), 2023). *Forthcoming draft*
-* [Reassessing relationality for bipolar data](https://arxiv.org/html/2404.17042v1) (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io), 2024).
+* [Reassessing relationality for bipolar data](https://arxiv.org/html/2404.17042v1) (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io), 2024). *Preprint*
    
 
 ## Non-index publications
