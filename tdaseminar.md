@@ -3,7 +3,7 @@ layout: default
 title: TDA Seminar
 ---
 
-We organize a TDA Seminar in Universidad Autónoma de Madrid.
+We organize a TDA Seminar in CUNEF University.
 
 ## Next events
 
