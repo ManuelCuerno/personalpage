@@ -12,7 +12,7 @@ During my PhD, my research initially focused on the collapse of sequences of Rie
 
 Throughout this period, I also delved into Topological Data Analysis (TDA), engaging in both theoretical and applied research in this field. TDA has now become a cornerstone of my research endeavors.
 
-**Research interests:**  TDA (Topological Data Analysis). Metric Geometry. Optimal Transport.
+**Research interests:**  TDA (Topological Data Analysis). Metric Geometry. Optimal Transport. Wasserstein type spaces. Mathematics applied to Sociology. Mathematics applied to Air Traffic Management Networks. Centrality Measures.
 
 ## Contact details:
 * **Email**: manuel.mellado@cunef.edu <a href = "mailto: manuel.mellado@cunef.edu">(Send Email)</a>
