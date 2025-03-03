@@ -9,6 +9,9 @@ Discord Server for Spanish-Speaking TDA Worldwide Community: [LINK](https://disc
 
 ## Next events
 
+Álvaro Torras-Casas. "Comparison of finite metric spaces via persistence matching diagrams"
+Place: CUNEF University (Leonardo Prieto Castr's campus), F2.1
+Date and time: 6th March, 11:30
 
 ## Past events
 * [“A walk through a TDA pipeline. Case study of cells organization”](files/mj_jimenezUAM.pdf) by [María José Jiménez](https://personal.us.es/majiro/), October 5th 2023.
