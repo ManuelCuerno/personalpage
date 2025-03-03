@@ -13,6 +13,8 @@ Discord Server for Spanish-Speaking TDA Worldwide Community: [LINK](https://disc
 Place: CUNEF University (Leonardo Prieto Castr's campus), F2.1
 Date and time: 6th March, 11:30
 
+Zoom Link: [Link](https://cunef.zoom.us/j/93856604233?pwd=o7U3NVpcjtBgFpP84K8SWWQ1eWYemQ.1)
+
 ## Past events
 * [“A walk through a TDA pipeline. Case study of cells organization”](files/mj_jimenezUAM.pdf) by [María José Jiménez](https://personal.us.es/majiro/), October 5th 2023.
 * [“Estimación de dimensionalidad mediante topología de datos”](files/Seminario_UAM_8nov2023.pdf) by [Carles Casacuberta](https://www.ub.edu/topologia/casacuberta/), November 8th 2023.
