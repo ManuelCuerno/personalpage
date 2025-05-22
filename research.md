@@ -13,6 +13,7 @@ title: Research
 ## Pre-prints
 * The evolution of political ideology axes  in the United States, 1984-2020 (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io), 2023). *Forthcoming draft*
 * [Finding patterns of meaning: Reassessing Construal Clustering via Bipolar Class Analysis](https://arxiv.org/abs/2404.17042v2) (with [Fernando Galaz-García](https://www.durham.ac.uk/staff/fernando-galaz-garcia/), [Sergio Galaz-García](https://sergiogalazgarcia.com/) and [Telmo Pérez-Izquierdo](https://telmoperiz.github.io), 2024). *Preprint*
+* [Metric pairs and tuples in theory and applications](https://arxiv.org/abs/2505.12735) (with [Andrés Ahumada Gómez](https://sites.google.com/view/andres-ahumada-gomez) and [Mauricio Che](https://sites.google.com/view/mauriciochemoguel/), 2025) *Preprint*
    
 
 ## Non-index publications
