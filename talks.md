@@ -3,7 +3,8 @@ layout: default
 title: Talks and conferences
 ---
 
-## International talks and seminars 
+## International talks, seminars, and courses 
+* [Pattern-type clustering of surveys: construals, bipolar items, and applications](https://arxiv.org/abs/2404.17042) given at ShanghaiTech-Qintiang Mathematical Conference: New trends in Applied Mathematics and Machine Learning in Qiantiang, Lishui, China during 9th-13th June 2025.
 * [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at Imperial College, London, UK on the 6th August 2024.
 * [Filling radius and reach of isometrically embedded metric spaces](https://github.com/ManuelCuerno/personalpage/blob/main/files/Diapositivas%20UNAM%20-%20Manuel%20Cuerno.pdf) given at UNAM, CDMX, México on the 19th January 2024.
 * [Topological Data Analysis in ATM](https://arxiv.org/abs/2304.08906) given at [GEOTOP-A International Conference](https://seminargeotop-a.com/merida24) in Mérida, Yucatán, México, from 8th - 14th Juanuary 2024.
@@ -15,7 +16,8 @@ title: Talks and conferences
 * [Convergence of manifolds with totally bounded curvature](https://temat.es/monograficos/article/view/vol2-p75) given at 3rd BYMAT Conference: Bring Young Mathematicians Together, which took place online, hosted by the Universitat Politècnica de València on the 1st-3rd December 2020.
    
 
-## National talks and seminars
+## National talks, seminars, and courses
+* Introducción al Análisis de Datos Topológico, course given at Universidad de Las Palmas de Gran Canaria in Gran Canaria, Spain, from 12th-15th May 2025.
 * [Decoding patterns of meaning: reassessing construal clusters and TDA perspectives](https://arxiv.org/abs/2404.17042) given at [Jornadas de Topología de Datos 2025](https://www.unirioja.es/cu/jodivaso/events/tda2025/) in Logroño, La Rioja, Spain, from 30th - 31st January 2025.
 * [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at CUNEF University, Madrid, Spain, on 12th June 2024.
 * [Topological Data Analysis (TDA) and air traffic](https://www.icmat.es/es/actividades/coloquios/coloquio-landing/?ID=2004) given at Junior Coloquium of Mathematics (ICMAT-UAM-UC3M-UCM), which took place at ICAM on the 15th February 2023.
