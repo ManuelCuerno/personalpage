@@ -17,6 +17,8 @@ navigation:
     url: teaching
   - name: TDA SEMINAR
     url: tdaseminar
+  - name: Job Offer
+    url: Offer
 
 
 
