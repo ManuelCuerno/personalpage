@@ -4,6 +4,8 @@ title: Talks and conferences
 ---
 
 ## International talks, seminars, and courses 
+* [On the Gromov–Hausdorff distance for metric pairs and tuples](https://arxiv.org/abs/2505.12735) given at the Conference
+on Topological Data Analysis: Recent Developments and Applications in Columbia, Missouri, USA during 22nd-24th November 2025.
 * [Pattern-type clustering of surveys: construals, bipolar items, and applications](https://arxiv.org/abs/2404.17042) given at ShanghaiTech-Qintiang Mathematical Conference: New trends in Applied Mathematics and Machine Learning in Qiantiang, Lishui, China during 9th-13th June 2025.
 * [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at Imperial College, London, UK on the 6th August 2024.
 * [Filling radius and reach of isometrically embedded metric spaces](https://github.com/ManuelCuerno/personalpage/blob/main/files/Diapositivas%20UNAM%20-%20Manuel%20Cuerno.pdf) given at UNAM, CDMX, México on the 19th January 2024.
@@ -17,6 +19,7 @@ title: Talks and conferences
    
 
 ## National talks, seminars, and courses
+* [Sobre la distancia de Gromov-Haussdorf para pares y tuplas métricas](https://arxiv.org/abs/2505.12735) given at [Jornadas de Topología de Datos 2026](https://imus.us.es/congresos/tdasevilla2026/) in Sevilla, Spain during 5th-6th February 2026.
 * Introducción al Análisis de Datos Topológico, course given at Universidad de Las Palmas de Gran Canaria in Gran Canaria, Spain, from 12th-15th May 2025.
 * [Decoding patterns of meaning: reassessing construal clusters and TDA perspectives](https://arxiv.org/abs/2404.17042) given at [Jornadas de Topología de Datos 2025](https://www.unirioja.es/cu/jodivaso/events/tda2025/) in Logroño, La Rioja, Spain, from 30th - 31st January 2025.
 * [How do we think?: Reassessing construal clusters with bipolar data](https://arxiv.org/abs/2404.17042) given at CUNEF University, Madrid, Spain, on 12th June 2024.
@@ -27,6 +30,7 @@ title: Talks and conferences
 
 
 ## Poster presentations
+* [On the Gromov–Hausdorff distance for metric pairs and tuples](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster_Columbia_2025-2.pdf) presented at the Conference on Topological Data Analysis: Recent Developments and Applications in Columbia, Missouri, USA during 22nd-24th November 2025.
 * [How do we think? - Reassessing construal clusters with bipolar data](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster%20Atlanta.pdf) presented at [SIAM Conference on Mathematics of Data Science](https://www.siam.org/conferences-events/siam-conferences/mds24/) in Atlanta, USA, from 21st - 25th October, 2024.
 * [Reassessing construal clusters with bipolar data: measuring similarities and TDA perspectives](https://github.com/ManuelCuerno/personalpage/blob/main/files/Poster_Oxford_2024.pdf) presented at [Spires 2024](https://www.maths.ox.ac.uk/groups/ml-and-ds/topological-data-analysis/spires-2024) in Oxford, UK, from 7th - 9th August 2024.
 * [Topological data Analysis in ATM: the shape of big flgiht data sets](https://github.com/ManuelCuerno/personalpage/blob/main/files/Kyoto_2023___Poster%20(2).pdf) presented at [Jornadas de Topología de Datos 2024](https://sites.google.com/view/tda2024) in Barcelona, Spain, from 1st - 2nd February 2024.
