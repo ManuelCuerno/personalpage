@@ -13,12 +13,8 @@ navigation:
     url: projects
   - name: TALKS & CONFERENCES
     url: talks
-  - name: TEACHING
-    url: teaching
   - name: TDA SEMINAR
     url: tdaseminar
-  - name: Job Offer
-    url: offer
 
 
 
