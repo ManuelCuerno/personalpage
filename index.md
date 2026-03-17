@@ -4,9 +4,8 @@ title: Home
 ---
 
 # Welcome to my personal page!
-PhD in Mathematics (advisor: [Luis Guijarro](https://verso.mat.uam.es/~luis.guijarro/index-esp.html)) at [Maths Department](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es)
 
-Born in Madrid in 1995, I pursued my Bachelor's degree in Mathematics from 2013 to 2017, followed by a Master's degree from 2017 to 2018 at the Universidad Autónoma de Madrid.
+I am Assistant Professor (Tenure-Track) at [CUNEF Universidad](https://www.cunef.edu) in Madrid, Spain. I obtained my PhD in Mathematics (advisor: [Luis Guijarro](https://verso.mat.uam.es/~luis.guijarro/index-esp.html)) at the [Department of Mathematics](https://verso.mat.uam.es/web/index.php/es/) in [Universidad Autónoma de Madrid](http://www.uam.es).
 
 During my PhD, my research focused on metric geometry. In particular, I studied Gromov's invariant Filling Radius and the reach (in the sense of Federer) of isometric embeddings into Wasserstein-type spaces. Additionally, I explored applications of the Wasserstein distance, particularly in addressing the problem of uniformly distributing points on a compact manifold. Throughout this period, I also delved into Topological Data Analysis (TDA), engaging in both theoretical and applied research in this field. TDA has now become a cornerstone of my research endeavors.
 
