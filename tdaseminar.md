@@ -17,3 +17,4 @@ Discord Server for Spanish-Speaking TDA Worldwide Community: [LINK](https://disc
 * ["Topological Data Analysis for Deep Learning"](files/main (1).pdf) by [Rubén Ballester](http://rubenbb.com/), June 4th 2024. [VIDEO](https://www.youtube.com/watch?v=wEWgs3y_8os&ab_channel=Matem%C3%A1ticasUAM)
 * ["Topology as an explanatory tool for deep neural networks"](files/seminarioTDA_clara.pdf) by [Clara I. López-González](https://scholar.google.es/citations?user=aJJF14IAAAAJ&hl=es), November 8th 2024. [VIDEO](https://youtu.be/nqwnA7UcQBw)
 * ["Comparison of finite metric spaces via persistence matching diagrams"](files/CUNEF_6_Marzo_25.pdf) by [Álvaro Torras-Casas](https://alvaro-torras-casas.org), March 6th 2025. [VIDEO](https://www.youtube.com/watch?v=bdlStTO7ruQ)
+* ["The Pareto Grid in Multiparameter Persistence"](files/Slides_Madrid.pdf) by [Eloy Mosig García](https://sites.google.com/view/eloymosiggarcia/), March 24th 2026.
