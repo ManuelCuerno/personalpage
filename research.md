@@ -13,7 +13,7 @@ title: Research
 
 ## Pre-prints
 * [Metric pairs and tuples in theory and applications](https://arxiv.org/abs/2505.12735) (with [Andrés Ahumada Gómez](https://sites.google.com/view/andres-ahumada-gomez) and [Mauricio Che](https://sites.google.com/view/mauriciochemoguel/), 2025) *Preprint*
-* [Quantifying displacement: a gentrification's consequence via persistent homology](https://arxiv.org/abs/2512.10753) (with [Rita Rodríguez Vázquez](https://www.cunef.edu/claustro-e-investigacion/rodriguez-vazquez-rita/), 2025) *Preprint*
+* [Quantifying displacement: an urban expansion consequence via persistent homology](https://arxiv.org/abs/2512.10753) (with [Rita Rodríguez Vázquez](https://www.cunef.edu/claustro-e-investigacion/rodriguez-vazquez-rita/), 2025) *Preprint*
    
 
 ## Non-index publications
